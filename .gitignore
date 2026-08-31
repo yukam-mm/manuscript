@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+.DS_Store
+
+*.pt
+*.pth
+*.ckpt
+
+data/inhouse/raw/
+data/makrai/
+outputs/
+
+*.tif
+*.tiff

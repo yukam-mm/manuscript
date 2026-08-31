@@ -1,0 +1,5 @@
+metric,agrees_with_visual,total_judgeable,agreement_%
+remove_score ↑,47,65,72.3%
+brisque ↓,29,65,44.6%
+niqe ↓,20,65,30.8%
+ocr_conf_sum ↓,0,65,0.0%
